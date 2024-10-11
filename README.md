@@ -1,8 +1,26 @@
-# React + Vite
+# E-Commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant, feature-rich e-commerce web application built with React and powered by a modern shopping experience. This app allows users to browse products, add them to a cart, and make purchases seamlessly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Product Listing**: View a variety of products with detailed information including price, category, and tags.
+- **Shopping Cart**: Add or remove products from the cart, view total price, and adjust quantities.
+- **Product Details**: View detailed product images and descriptions with pricing information.
+- **Responsive Design**: Fully optimized for both desktop and mobile users.
+- **Dynamic Rating System**: Shows star ratings for products.
+- **Size Selection**: Users can select different sizes for applicable products.
+
+## Technologies Used
+
+- **Frontend**: React, Tailwind CSS
+- **Context API**: For state management (shopping cart functionality)
+- **Deployment**: Vercel
+- **Assets**: Images stored locally
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/e-commerce-app.git
+   cd e-commerce-app
